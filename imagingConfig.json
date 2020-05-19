@@ -1,7 +1,7 @@
 {"configs":
 [
 	{"txnType":"100", "txnName":"Thu phí HS mới", "docs":[{"docName":"CMND", "mainDoc":"123456", "subDoc":"56789"}]},
-	{"txnType":"200", "txnName":"Phí & BH hoàn trả", "docs":[]},
+	{"txnType":"200", "txnName":"Phí & BH hoàn trả", "docs":[{"docName":"CMND", "mainDoc":"123456", "subDoc":"56789"},{"docName":"Phiếu yêu cầu", "mainDoc":"52526", "subDoc":"56789"}]},
 	{"txnType":"300", "txnName":"", "docs":[]},
 ]
 }
