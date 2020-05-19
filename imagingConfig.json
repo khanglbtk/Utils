@@ -1,7 +1,7 @@
 {"config":
 [
-	{"trans":"100", "docs":[{"docName":"CMND", "mainDoc":"123456", "subDoc":"56789"}]},
-	{"trans":"200", "docs":[]},
-	{"trans":"300", "docs":[]}
+	{"tran":"100", "docs":[{"docName":"CMND", "mainDoc":"123456", "subDoc":"56789"}]},
+	{"tran":"200", "docs":[]},
+	{"tran":"300", "docs":[]}
 ]
 }
