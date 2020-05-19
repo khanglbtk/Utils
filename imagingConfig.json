@@ -1,4 +1,4 @@
-{"config":
+{"configs":
 [
 	{"tran":"100", "docs":[{"docName":"CMND", "mainDoc":"123456", "subDoc":"56789"}]},
 	{"tran":"200", "docs":[]},
